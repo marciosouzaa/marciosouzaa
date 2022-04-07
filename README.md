@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Javascript
-- 📫 Contate-me no email: marciosouzaunico@gmail.com
 - ⚡ Curto <strong>codar</strong>, crossfit, leitura e games.
 
 <div align="center">
