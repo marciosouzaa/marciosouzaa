@@ -13,7 +13,7 @@
   <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="marcio-avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/416684256509558806/961603689385189396/ReadyPlayerMe-Avatarcopy.png">
+  <img align="right" alt="marcio-avatar" height="150" style="border-radius:50px;" src="https://c.tenor.com/hlp2RgZGrm4AAAAM/inquire-question.gif">
 </div>
   
   ##
