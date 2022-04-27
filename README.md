@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Marcio.
 
-- 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Javascript
 - ⚡ Curto <strong>codar</strong>, crossfit, leitura e games.
 
