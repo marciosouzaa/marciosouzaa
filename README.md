@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Marcio.
 
-- 🌱 Estudando Javascript
 - ⚡ Curto <strong>codar</strong>, crossfit, leitura e games.
 
 ##
