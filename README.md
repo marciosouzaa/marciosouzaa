@@ -1,6 +1,6 @@
 ### Hi! I'm Marcio.
 
-
+- 🌎 Web developer.
 - ⚡ I enjoy <strong>coding</strong>, crossfit, reading and games.
 
 ##
