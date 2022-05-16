@@ -1,7 +1,7 @@
-### Olá! Eu sou o Marcio.
+### Hi! I'm Marcio.
 
 
-- ⚡ Curto <strong>codar</strong>, crossfit, leitura e games.
+- ⚡ I enjoy <strong>coding</strong>, crossfit, reading and games.
 
 ##
 
@@ -14,6 +14,8 @@
   <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="marcio-avatar" height="150" style="border-radius:50px;" src="https://c.tenor.com/hlp2RgZGrm4AAAAM/inquire-question.gif">
 </div>
   
