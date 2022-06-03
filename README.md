@@ -2,6 +2,8 @@
 
 - 🌎 Web developer.
 - ⚡ I enjoy <strong>coding</strong>, crossfit, reading and games.
+- 💻 [**Site/Portfolio**](http://marciosouza.dev.br/)
+
 
 ##
 
