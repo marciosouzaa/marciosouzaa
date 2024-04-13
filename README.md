@@ -1,10 +1,12 @@
 ### Hi! I'm Marcio.
 
 - 🌎 Web developer.
+  <!--
 - ⚡ I enjoy <strong>coding</strong>, crossfit, reading and games.
 - 💻 [**Site/Portfolio**](http://marciosouza.dev.br/)
+-->
 
-
+<!-- 
 ##
 
 <div align="center">
@@ -19,8 +21,8 @@
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="marcio-avatar" height="150" style="border-radius:50px;" src="https://c.tenor.com/hlp2RgZGrm4AAAAM/inquire-question.gif">
-</div>
-  
+</div> 
+-->
   ##
   
   <div>
